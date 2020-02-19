@@ -1,0 +1,4 @@
+A. code runs forever, even though a value is printed to the console;
+fix: put a limit on the stream
+
+B. see code
